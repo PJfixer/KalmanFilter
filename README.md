@@ -8,6 +8,6 @@ this an implementation of the kalman state update equation which is very usefull
 
 
 
-All filter paramters are hold in a struct so you can create several filter for your purposes.
+All filter parameters are hold in a struct so you can create several filter for your purposes.
 
 ![alt text](https://github.com/PJfixer/KalmanFilter/blob/master/KalmanFilterTest/Kalman_response.JPG)
